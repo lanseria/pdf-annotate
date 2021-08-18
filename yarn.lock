@@ -126,6 +126,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.45.tgz#ec2dfb5566ff814d061aef7e141575aedba245cf"
   integrity sha512-DssMqTV9UnnoxDWu959sDLZzfvqCF0qDNRjaWeYSui9xkFe61kKo4l1TWNTQONpuXEm+gLMRvdlzvNHBamzmEw==
 
+"@types/pdfobject@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@types/pdfobject/-/pdfobject-2.2.2.tgz#027b70e44741a5e55dea9f6b326fefb2b3a21ea0"
+  integrity sha512-a3Ul7DDltIjMazNu+32IjhJL4or4QM04fimwvhyYaJoOrypzcGwb6jnh56ClTcBv8T5oANg8ti1lyQti09Wuwg==
+
 "@types/yargs-parser@*":
   version "20.2.1"
   resolved "https://registry.yarnpkg.com/@types/yargs-parser/-/yargs-parser-20.2.1.tgz#3b9ce2489919d9e4fea439b76916abc34b2df129"
@@ -681,6 +686,11 @@ pdfjs-dist@^2.8.335:
   version "2.9.359"
   resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.9.359.tgz#e67bafebf20e50fc41f1a5c189155ad008ac4f81"
   integrity sha512-P2nYtkacdlZaNNwrBLw1ZyMm0oE2yY/5S/GDCAmMJ7U4+ciL/D0mrlEC/o4HZZc/LNE3w8lEVzBEyVgEQlPVKQ==
+
+pdfobject@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/pdfobject/-/pdfobject-2.2.6.tgz#cb8a0b7697af88df8af017b5fd4a7a42abb6e031"
+  integrity sha512-3B8re2yWzBcI9Xa+QcRptw0ag5NQYyVHVxP1yEWW7aCm6ujvZa8z7/06uz/zZqsI2TDLzsED3yS4JEMwQdCGEg==
 
 postcss-modules-extract-imports@^3.0.0:
   version "3.0.0"
