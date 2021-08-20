@@ -1,25 +1,25 @@
 {
-  "name": "@lanseria/vue-component-vite",
-  "description": "vue-component-vite",
+  "name": "@lanseria/pdf-annotate",
+  "description": "pdf-annotate",
   "version": "1.0.0",
   "files": [
     "dist",
     "dist/*.css"
   ],
-  "main": "./dist/vue-component-vite.umd.js",
-  "module": "./dist/vue-component-vite.es.js",
+  "main": "./dist/pdf-annotate.umd.js",
+  "module": "./dist/pdf-annotate.es.js",
   "exports": {
     ".": {
-      "import": "./dist/vue-component-vite.es.js",
-      "require": "./dist/vue-component-vite.umd.js"
+      "import": "./dist/pdf-annotate.es.js",
+      "require": "./dist/pdf-annotate.umd.js"
     },
     "./style.css": "./dist/style.css"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lanseria/vue-component-vite.git"
+    "url": "https://github.com/Lanseria/pdf-annotate.git"
   },
-  "homepage": "https://github.com/Lanseria/vue-component-vite#readme",
+  "homepage": "https://github.com/Lanseria/pdf-annotate#readme",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
